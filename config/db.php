@@ -1,4 +1,3 @@
-```php
 <?php
 // config/db.php
 // Include the Database class
